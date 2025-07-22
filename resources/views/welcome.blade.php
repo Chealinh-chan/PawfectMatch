@@ -41,7 +41,7 @@
             <div class="card text-center">
                 <img src="{{ asset('img/fish.webp') }}" class="card-img-top" style="height: 320px; object-fit: cover;" alt="Other animals">
                 <div class="card-body">
-                    <p class="card-text">Other animals</p>
+                    <p class="card-text">Other animals123</p>
                 </div>
             </div>
         </div>
