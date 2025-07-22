@@ -17,7 +17,7 @@
                         <th>Date & Time</th>
                         <th>Breed</th>
                         <th>Age</th>
-                        <th>Statusss</th>
+                        <th>Status</th>
                     </tr>
                 </thead>
                 <tbody>
